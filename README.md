@@ -36,5 +36,5 @@ Build a simple "Stock Portfolio Tracker" in Python that calculates total investm
 1. Make sure Python is installed.
 2. Copy the code into a file named portfolio_tracker.py.
 3. Run the script in terminal or IDE:
-   ```bash
-   python portfolio_tracker.py
+   '''bash
+     python stock.py
